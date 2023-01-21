@@ -1,0 +1,23 @@
+{
+  "name": "learning-typescript",
+  "version": "1.0.0",
+  "description": "Simple exercice just to get started with TYPESCRIPT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kensteph/learning-typeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kensteph/learning-typeScript/issues"
+  },
+  "homepage": "https://github.com/kensteph/learning-typeScript#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
